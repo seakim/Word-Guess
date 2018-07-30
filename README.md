@@ -2,6 +2,7 @@
 
 
 ######In this game, you will guess the artist of the song given.
+
 ######Have Fun!
 
 *you need to install npm to play this game*
